@@ -25,7 +25,7 @@ Due to library compatibility issues, the TabNet model was trained in a **separat
 
 - ⚙️ **Main Notebook (Random Forest & Neural Network)**: [Main Colab Notebook](https://colab.research.google.com/drive/16pVncMv7P3mXPHtUmr-4dxAFceJrwdAQ?usp=sharing)
 
-- 🔬 **TabNet Model Notebook** (with transfer learning):  [Project Book (Hebrew)](https://colab.research.google.com/drive/16pVncMv7P3mXPHtUmr-4dxAFceJrwdAQ?usp=sharing)  
+- 🔬 **TabNet Model Notebook** (with transfer learning):  [TabNet Colab Notebook](https://colab.research.google.com/drive/16pVncMv7P3mXPHtUmr-4dxAFceJrwdAQ?usp=sharing)  
 
 ## 🚧 Notes
 
@@ -38,7 +38,3 @@ Due to library compatibility issues, the TabNet model was trained in a **separat
 - TabNet_model.zip contains the TabNet model you need to unzip it
 - The random forest model file is too big so just run it and it will be created 
 
-## 📂​ Already trained model that i used is provided 
-- training_history.zip
-- random_forest_model.sav
-- TabNet_model.zip
