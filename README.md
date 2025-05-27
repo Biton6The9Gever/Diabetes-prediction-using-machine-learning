@@ -6,8 +6,7 @@ This project applies machine learning techniques to predict the likelihood of a 
 
 Using a dataset of health indicators, several machine learning models were trained to classify users into one of three categories:
 - **0**: No Diabetes  
-- **1**: Prediabetes  
-- **2**: Diabetes
+- **1**: Prediabetes / Diabetes
 
 The project achieved an accuracy of approximately **82%**, which was primarily limited by a **data bottleneck** in the dataset (such as imbalanced classes or noise in features).
 
@@ -33,6 +32,11 @@ Due to library compatibility issues, the TabNet model was trained in a **separat
 - The code was developed using **Google Colab** for ease of use and accessibility.
 - The dataset used was from the **BRFSS 2015 health indicators** dataset (available on Kaggle).
 - The accuracy could likely be improved with better data preprocessing, feature engineering, and class balancing.
+
+## 📁 TabNet and NN model provided
+- Training_history.zip contains 216 model runs (see last cell in aiproject) you can load each model I loaded the best one
+- TabNet_model.zip contains the TabNet model you need to unzip it
+- The random forest model file is too big so just run it and it will be created 
 
 ## 📂​ Already trained model that i used is provided 
 - training_history.zip
